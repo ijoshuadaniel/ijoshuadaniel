@@ -1,4 +1,4 @@
-### Hi there, I'm Daniel Paul  👋
+### Hi there, I'm Daniel Paul Joshua S  👋
 
 ## I'm a  Developer, Student and Learner!
 - 🔭 I’m currently working on a Travel Website
