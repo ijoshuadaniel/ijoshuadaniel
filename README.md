@@ -1,9 +1,9 @@
 ### Hi there, I'm Daniel Paul Joshua S  👋
 
 ## I'm a  Developer, Student and Learner!
-- 🔭 I’m currently working on Billing Software
+- 🔭 I’m currently working on Ecommerce Website
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: To Develop a open source AI 
+- 🥅 2021 Goals: To Develop a open source project
 - ⚡ Fun fact: I Love to play games.
 
 ### Connect with me:
