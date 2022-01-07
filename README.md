@@ -1,7 +1,7 @@
 ### Hi there, I'm Daniel Paul Joshua S  👋
 
 ## I'm a Full Stack Developer and Learner!
-- 🔭 I’m currently working on flight booking application
+- 🔭 I’m currently working on Timetrack Application
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: To Develop a open source project
 - ⚡ Fun fact: I Love to play games.
