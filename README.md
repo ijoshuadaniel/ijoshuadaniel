@@ -3,7 +3,7 @@
 ## I'm a Full Stack Developer and Learner!
 - 🔭 I’m currently working on Timetrack Application
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: To Develop a open source project
+- 🥅 2022 Goals: To Develop a open source project
 - ⚡ Fun fact: I Love to play games.
 
 ### Connect with me:
