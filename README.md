@@ -14,9 +14,6 @@ I am a classic blend of knowledge and experience with certifications, a Web deve
 * 🤝  I'm open to collaborating on any Javascript projects
 * ⚡  Fun fact: I Love to play games.
 
-<a href="https://www.github.com/ijoshuadaniel" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ijoshuadaniel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 <p align="left">
