@@ -9,7 +9,7 @@ I'm a seasoned web developer who brings a strong mix of expertise and practical 
 * 🌍  Based in Bangalore, India
 * 🖥️  Check out my portfolio: [https://joshuadaniel.me/](https://joshuadaniel.me/)
 * ✉️  Contact me at [danielpauljoshuas@gmail.com](mailto:danielpauljoshuas@gmail.com)
-* 🚀  Currently working with Adobe (https://joshuadaniel.me/)
+* 🚀  Currently working with Adobe.
 * 🧠  Currently learning Machine Learning
 * 🤝  Open to collaborating on JavaScript projects
 * ⚡  Fun fact: I love playing games.
