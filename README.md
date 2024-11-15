@@ -1,57 +1,70 @@
-Hi 👋 My name is Daniel Paul Joshuah
-====================================
+# Daniel Paul Joshuah 👋
 
-Full Stack Developer
---------------------
+**Full Stack Developer | Visionary Creator of Robust Web Solutions**
 
-I am a classic blend of knowledge and experience with certifications, a Web developer with varied skills and visionary achievements. I have built websites and applications with happy clients for employer and make leading differentiation for the projects worked.
+---
 
-* 🌍  I'm based in Bangalore, India
-* 🖥️  See my portfolio at [https://joshuadaniel.me/](http://joshuadaniel.me/)
-* ✉️  You can contact me at [danielpauljoshuas@gmail.com](mailto:danielpauljoshuas@gmail.com)
-* 🚀  I'm currently working on [Private Banking Application](http://joshuadaniel.me)
-* 🧠  I'm learning Blockchain
-* 🤝  I'm open to collaborating on any Javascript projects
-* ⚡  Fun fact: I Love to play games.
+I am a dedicated Full Stack Developer with a rich blend of technical knowledge, hands-on experience, and industry-recognized certifications. Over the years, I have successfully designed and developed websites and applications that drive value for clients and differentiate projects within competitive landscapes. My work is defined by a commitment to innovation, quality, and a user-centered approach that ensures client satisfaction and long-term impact.
 
-### Skills
+* 🌍  **Location**: Based in Bangalore, India  
+* 🖥️  **Portfolio**: Explore my work at [https://joshuadaniel.me/](https://joshuadaniel.me/)  
+* ✉️  **Contact**: You can reach out to me at [danielpauljoshuas@gmail.com](mailto:danielpauljoshuas@gmail.com)  
+* 🚀  **Current Role**: Currently working on impactful projects with **Adobe**  
+* 🧠  **Learning Path**: Expanding my skills in **Machine Learning** to deepen my technical expertise and explore emerging technologies  
+* 🤝  **Collaboration**: Open to collaborating on exciting **JavaScript projects** and innovative development initiatives  
+* ⚡  **Fun Fact**: I am a passionate gamer and love exploring new and engaging games in my free time.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-</p>
+---
 
+### Technical Skills
+
+With a diverse tech stack, I have developed expertise across multiple frameworks, languages, and tools. Here’s a snapshot of my core skills:
+
+* **Frontend Development**:  
+  - ![JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg) JavaScript  
+  - ![TypeScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg) TypeScript  
+  - ![React](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg) React  
+  - ![Next.js](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg) Next.js  
+  - ![JQuery](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg) jQuery  
+
+* **Styling & UI**:  
+  - ![CSS3](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg) CSS3  
+  - ![Sass](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg) Sass  
+  - ![Bootstrap](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg) Bootstrap  
+  - ![Figma](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg) Figma  
+  - ![Adobe XD](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg) Adobe XD  
+
+* **Backend & Database**:  
+  - ![NodeJS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg) Node.js  
+  - ![Express](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg) Express  
+  - ![MongoDB](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg) MongoDB  
+  - ![MySQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg) MySQL  
+  - ![Firebase](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg) Firebase  
+
+* **Development Tools**:  
+  - ![Webpack](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg) Webpack  
+  - ![Babel](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg) Babel  
+
+* **Web3 & Blockchain**:  
+  - ![MetaMask](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg) MetaMask  
+  - ![Web3.js](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg) Web3.js  
+  - ![Ethereum](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg) Ethereum  
+
+---
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ijoshuadaniel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/danielpauljoshuas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+Stay connected with me and follow my journey:
 
-### Badges
+[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/ijoshuadaniel)  
+[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/danielpauljoshuas)
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/ijoshuadaniel"><img src="https://github-readme-stats.vercel.app/api?username=ijoshuadaniel&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ijoshuadaniel's GitHub stats" /></a>
+### GitHub Stats
 
-<a href="https://github.com/ijoshuadaniel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijoshuadaniel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+Take a look at my contributions and projects on GitHub:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ijoshuadaniel&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ijoshuadaniel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
