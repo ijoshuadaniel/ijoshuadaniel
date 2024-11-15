@@ -60,7 +60,7 @@ I'm a seasoned web developer who brings a strong mix of expertise and practical 
 
 <p align="left"> 
   <a href="https://www.github.com/ijoshuadaniel" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/github-octocat.svg" width="32" height="32" />
   </a> 
   <a href="https://www.linkedin.com/in/danielpauljoshuas" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
